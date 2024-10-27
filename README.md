@@ -1,0 +1,2 @@
+# Practice building a Web Hosting landing page with pure HTML, CSS and JavaScript skills with designed Figma.
+# Figma Design Credit: https://www.figma.com/design/e19pJf9sQ67cP4j1UPeqtt/Dewa---Web-Hosting-Landing-Page-(Community)?node-id=0-1&node-type=canvas&t=pVwXc5UbKZxjGymU-0
